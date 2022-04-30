@@ -5,10 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: Ephemeral
+name: Ego.doc
 # 描述/签名
-description: 我知这世界本如露水般短暂。然而，然而。
-
+description: 雪总会融化
 #
 # 下面的设定都是可选的
 #
@@ -17,15 +16,14 @@ description: 我知这世界本如露水般短暂。然而，然而。
 avatar: 
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: 
 
 
 # 菜单中的按钮
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
+
   - name: 归档
     url: /archive
   - name: 标签
@@ -39,7 +37,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: erdong #请输入你的微博个性域名 https://www.weibo.com/7037923788/profile?topnav=1&wvr=6&is_all=1<thispart>
+  weibo: 
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: 
